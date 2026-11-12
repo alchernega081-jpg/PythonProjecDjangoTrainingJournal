@@ -1,18 +1,7 @@
-# Виртуальное окружение
 ll_env/
-venv/
-env/
-
-# Python
 __pycache__/
-*.py[cod]
-*.so
-
-# Django
-*.log
+*.pyc
 db.sqlite3
+logs/
 static/
-
-# IDE
 .idea/
-.vscode/
