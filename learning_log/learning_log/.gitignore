@@ -1,0 +1,18 @@
+# Виртуальное окружение
+ll_env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Django
+*.log
+db.sqlite3
+static/
+
+# IDE
+.idea/
+.vscode/
